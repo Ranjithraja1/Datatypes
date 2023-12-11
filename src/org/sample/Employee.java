@@ -26,6 +26,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 System.out.println("Employee details");
 System.out.println("Ranjithraja123");
+System.out.println("Demoprocess");
 	}
 	public static void main(String[] args) {
 		Employee e=new Employee();
