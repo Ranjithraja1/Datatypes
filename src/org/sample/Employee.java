@@ -21,9 +21,11 @@ public class Employee {
 		System.out.println("employee avg");
 		System.out.println(avg+"\n"+ph);
 	}
+	
 	private void employee() {
 		// TODO Auto-generated method stub
 System.out.println("Employee details");
+System.out.println("Ranjithraja123");
 	}
 	public static void main(String[] args) {
 		Employee e=new Employee();
